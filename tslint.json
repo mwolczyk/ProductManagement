@@ -55,7 +55,6 @@
         ]
       }
     ],
-    "newline-per-chained-call": false,
     "no-console": [
       true,
       "debug",
@@ -65,7 +64,6 @@
       "trace"
     ],
     "no-empty": false,
-    "no-implicit-dependencies": false,
     "no-inferrable-types": [
       true,
       "ignore-params"

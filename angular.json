@@ -24,7 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.css"
             ],
             "scripts": []
           },
@@ -88,7 +88,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.css"
             ],
             "scripts": []
           }
@@ -119,13 +119,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "product-management",
-  "schematics": {
-    "@schematics/angular:component": {
-      "styleext": "scss",
-      "changeDetection": "OnPush"
-    }
-  }
+    }},
+  "defaultProject": "product-management"
 }
